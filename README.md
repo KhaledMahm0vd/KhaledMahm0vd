@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaledMahm0vd
 - 👀 I’m interested in Bioinformatics and Environmental Biotechnology.
-- 🌱 I’m currently learning python on DataCamp.
+- 🌱 I’m currently learning Software engineering in ALX SE Scholarship
 - 💞️ I’m looking to collaborate on bioinformatics projects.
 - 📫 How to reach me : https://khaledmahm0vd.github.io/
 
