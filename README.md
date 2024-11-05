@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhaledMahm0vd
-- 👀 I’m interested in Bioinformatics and Environmental Biotechnology.
+- 👀 I’m interested in Software Development, CyberSecurity and Biotechnology.
 - 🌱 I’m currently learning Software engineering in ALX SE Scholarship
-- 💞️ I’m looking to collaborate on bioinformatics projects.
+- 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me : https://khaledmahm0vd.github.io/
 
 <!---
