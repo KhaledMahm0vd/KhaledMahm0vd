@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KhaledMahm0vd
-- 👀 I’m interested in Software Development, CyberSecurity and Biotechnology.
-- 🌱 I’m currently learning Software engineering in ALX SE Scholarship
+- 👀 I’m interested in Software Development, CyberSecurity.
+- 🌱 I’m currently learning SW Testing in DEPI, Egypt 
 - 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me : https://khaledmahm0vd.github.io/
+- 📫 Personal Website: https://www.khaled23rd.tech
 
 <!---
 KhaledMahm0vd/KhaledMahm0vd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
