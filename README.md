@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, CyberSecurity.
 - 🌱 I’m currently learning SW Testing in DEPI, Egypt 
 - 💞️ I’m looking to collaborate on beginner projects.
-- 📫 Personal Website: https://www.khaled23rd.tech
+- 📫 Personal Website: https://khaledmahmoud.me
 
 <!---
 KhaledMahm0vd/KhaledMahm0vd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
