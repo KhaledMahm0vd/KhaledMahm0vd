@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaledMahm0vd
 - 👀 I’m interested in Software Development, CyberSecurity.
-- 🌱 I’m currently learning SW Testing in DEPI, Egypt 
+- 🌱 I’m currently learning Backend Development using Node.JS
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 Personal Website: https://khaledmahmoud.me
 
